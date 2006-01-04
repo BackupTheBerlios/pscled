@@ -63,11 +63,11 @@ Namespace NPSCLed
 			'blinkTimer
 			'
 			'
-			'pscLed
+			'PscLed
 			'
 			Me.CausesValidation = False
 			Me.Controls.Add(Me.pictLeds)
-			Me.Name = "pscLed"
+			Me.Name = "PscLed"
 			Me.Size = New System.Drawing.Size(24, 24)
 			Me.ToolTip1.SetToolTip(Me, "xxx")
 			Me.ResumeLayout(False)
